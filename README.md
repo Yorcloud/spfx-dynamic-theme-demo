@@ -23,7 +23,7 @@ Demo code of dynamic theme events in SPFx
 
 Solution|Author(s)
 --------|---------
-Rob Pearmain, yorcloud
+Rob Pearmain| (www.yorcloud.com)
 
 ## Version history
 
