@@ -1,4 +1,4 @@
-# dpfx-dynamic-theme-demo
+# spfx-dynamic-theme-demo
 
 ## Summary
 
